@@ -1,4 +1,4 @@
-Berikut ini catatan mengenai tugas Grafikom yang saya buat
+"Berikut ini catatan mengenai tugas Grafikom yang saya buat"
 
 from graphics import *
 digunakan untuk memanggil atau mengimport file lib graphics
